@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="160" viewBox="0 0 190 160">
+  <g id="ico-totalcalls" transform="translate(-487.098 -831.228)">
+    <rect id="Rectangle_136" data-name="Rectangle 136" width="190" height="160" transform="translate(487.098 831.228)" fill="rgba(255,255,255,0)"/>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="65" cy="65" r="65" transform="translate(517.099 846.228)" fill="none" stroke="#e4e7ec" stroke-linecap="round" stroke-width="15"/>
+    <path id="Path_296" data-name="Path 296" d="M591.932,841.232s26.213-1.408,46.36,19.173a66.713,66.713,0,0,1,18.848,46.144" transform="translate(-10.059 5.013)" fill="none" stroke="#2af194" stroke-linecap="round" stroke-width="15"/>
+    <text id="Total_calls_made_this_month" data-name="Total calls made 
+this month" transform="translate(582.099 908.228)" fill="#5a5a5a" font-size="12" font-family="Work Sans"><tspan x="-50" y="0">Total calls made </tspan><tspan x="-32" y="14">this month</tspan></text>
+  </g>
+</svg>
